@@ -4,6 +4,12 @@ html {
   border-left: 5px solid #1a75ff;
 }
 
+header h2 {
+  padding: 8px;
+  padding-right: 0px;
+  margin: 0px;
+}
+
 header {
   border-bottom: 1px solid #1a75ff;
   position: fixed;
@@ -13,10 +19,9 @@ header {
   color: #1a75ff;
 }
 
-header h2 {
-  padding: 8px;
-  padding-right: 0px;
-  margin: 0px;
+body main {
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
 body {
@@ -29,7 +34,7 @@ body {
 article img {
   border-radius: 5%;
   max-height: none;
-  width: 21%;
+  width: 25%;
   margin: 8px;
   margin-left: 0px;
 }
