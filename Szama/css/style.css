@@ -10,30 +10,14 @@ header {
   justify-content: flex-start;
 }
 
-header #szama {
-  font-size: 26px;
-  padding: 6px;
-  color: #1a75ff;
-}
-
-header #social {
-  font-size: 26;
-  padding: 4px;
-  color: #1a75ff;
-}
-
-header #contact {
-  font-size: 26px;
-  padding: 2px;
-  color: #1a75ff;
-}
-
 #szama-link {
   padding-left: 20%;
 }
 
 header .link-header {
   text-decoration: none;
+  color: #1a75ff;
+  padding: 12px;
 }
 
 header {
