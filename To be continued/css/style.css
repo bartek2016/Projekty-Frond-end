@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
+
+#index-html {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+#tbc, #news, #social, #actors, #movies, #shows, #cinema, #rankings, #contact, #prizes {
+  display: flex;
+  align-items: flex-start;
+}
+
+
+header .link-header {
+  text-decoration: none;
+  color: #990000;
+  padding: 12px;
+  font-size: 19px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+header {
+  position: fixed;
+}
+
+body main {
+  margin-left: 28%;
+  margin-right: 20%;
+  padding: 10px;
+  font-size: 15px;
+  /* background-color: #eeeeee; */
+}
+
+body header {
+  padding: 5px;
+}
+
+body {
+  background-color: #ffffff;
+  margin-top: 0px;
+}
+
+article {
+  overflow: auto;
+}
